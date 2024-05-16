@@ -8,5 +8,5 @@ python3 server.py
 <p>Then you can initialize the clients. They can be started by the following bash command: </p>
 
 ```
-python3 client.py &lt;current client index starting from 1&gt; &lt;total number of clients&gt;
+python3 client.py <current client index starting from 1> <total number of clients>
 ```
