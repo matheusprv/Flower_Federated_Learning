@@ -3,6 +3,7 @@
 <p>First, initialize the server by the following bash command:</p>
 ```
 python3 server.py
+
 ```
 <p>Then you can initialize the clients. They can be started by the following bash command: </p>
 ```
